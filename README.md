@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichardMcSherry
 - 👀 I’m interested in software architecture, web services, .NET, python.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning ASP.NET.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: richardjmcsherry@yahoo.co.uk
 
